@@ -117,3 +117,5 @@ A principal característica desse método de trabalho é liberar os colaboradore
 
 Agora que você apresentou todos os pontos da sua história, sua conclusão deve ser curta e poderosa.
 
+mais
+
